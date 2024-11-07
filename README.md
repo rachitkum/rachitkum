@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate developer skilled in various tech
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rachit-kumar/" target="_blank">
+  <a href="linkedin.com/in/rachit-kumar-b41299228" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/rachitt_123" target="_blank">
